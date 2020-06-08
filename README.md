@@ -1,0 +1,3 @@
+# APP_speaker_sound_control_slider_password
+APP_speaker_sound_control_slider_password
+Classroom Project assignment MIT App Inventor
